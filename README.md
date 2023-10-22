@@ -27,7 +27,7 @@ after cloning & setting up the local project you can push the changes to your gi
 Fork the repository. then clone the repo locally by doing -
 
 ```bash
-git clone https://github.com/anuraghazra/react-stripe-dropdown.git
+
 ```
 
 ### Step 2: Install Dependencies
