@@ -4,7 +4,6 @@
 
 Stripe Inspired Dropdown made with React and FramerMotion.
 
-**demo:** https://anuraghazra.github.io/react-stripe-dropdown
 
 ![React Stripe Inspired Dropdown](./src/assets/images/react-stripe-dropdown.png)
 
